@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mbprtpmix
+- 👀 I’m interested in Linux, NixOS and Open Source.
+- 🌱 I’m currently learning Nix and NixOS.
+- 💞️ I’m looking to collaborate on Open Source.
+- 📫 Reach me in PR.
